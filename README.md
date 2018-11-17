@@ -1,4 +1,4 @@
-# Name Game: Gender Prediction Using Soundsgender-prediction-using-sound
+# Name Game: Gender Prediction Using Sound
 
 Grey and Gray. Colour and Color. Words like these have been the cause of many heated arguments between Brits and Americans. Accents (and jokes) aside, there are many words that are pronounced the same way but have different spellings. While it is easy for us to realize their equivalence, basic programming commands will fail to equate such two strings.
 
